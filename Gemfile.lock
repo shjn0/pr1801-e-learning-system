@@ -186,17 +186,26 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< 3f3429b2759f8bcddce543ea1644081fa603aa3c
   bootstrap-sass
+=======
+  autoprefixer-rails (~> 8.6, >= 8.6.2)
+  bootstrap-sass (~> 3.3, >= 3.3.7)
+>>>>>>> ref Task#10 design interface user words
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
   jquery-rails
+<<<<<<< 3f3429b2759f8bcddce543ea1644081fa603aa3c
   jquery-ui-rails
+=======
+>>>>>>> ref Task#10 design interface user words
   listen (>= 3.0.5, < 3.2)
   mysql2
   puma (~> 3.7)
   rails (~> 5.1.6)
+  sass (~> 3.5, >= 3.5.6)
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
